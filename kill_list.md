@@ -7,3 +7,5 @@ Kill List
     Repeated code blocks
     Bad variable names
 
+
+	programmer grievance
